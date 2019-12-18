@@ -3,7 +3,7 @@ import './styles.css';
 
 function Register (){
   return(
-    <div>
+    <div><div className = "heading">Customer Pricing Map</div><br/>
       <form>
       <div className="first"><div className = "heading">Level ID/ EAN</div><br/>
         <input type="radio" name="group1" value="Level" checked />  Level ID: <input className = "second" type="text" / >
