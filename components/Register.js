@@ -22,6 +22,7 @@ function Register (){
         <input type="checkbox" name="check" value="xxx"/>Cash<br/>
         <input type="checkbox" name="check" value="yyy"/> Delete
       </div>
+      <button className="buttonAlign">Search </button>
       </form>
     </div>
   )
